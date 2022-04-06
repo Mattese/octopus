@@ -31,10 +31,12 @@ export const getCurrencyList = async () => {
   }
 };
 
-export const getRates = async () => {
+export const getRates = async (currencyName: string) => {
   try {
-    const { data } = await localApi.get("/data/aud.json");
-    return data;
+    const { data } = await localApi.get<{ rates: Rates }>(
+      `/data/${currencyName}.json`
+    );
+    return data.rates;
   } catch (e) {
     throw new Error("different error than axios");
   }
