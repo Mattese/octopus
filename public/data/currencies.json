@@ -1,0 +1,88 @@
+{
+    "currencies": [
+		{
+			"code": "CNY",
+			"country": "Čína"
+		},
+		{
+			"code": "GBP",
+			"country": "Velká Británie"
+		},
+		{
+			"code": "ZAR",
+			"country": "Jihoafrická republika"
+		},
+		{
+			"code": "RUB",
+			"country": "Rusko"
+		},
+		{
+			"code": "NZD",
+			"country": "Nový Zéland"
+		},
+		{
+			"code": "HUF",
+			"country": "Maďarsko"
+		},
+		{
+			"code": "HRK",
+			"country": "Chorvatsko"
+		},
+		{
+			"code": "PLN",
+			"country": "Polsko"
+		},
+		{
+			"code": "BGN",
+			"country": "Bulharsko"
+		},
+		{
+			"code": "EUR",
+			"country": "Evropská unie"
+		},
+		{
+			"code": "NOK",
+			"country": "Norsko"
+		},
+		{
+			"code": "DKK",
+			"country": "Dánsko"
+		},
+		{
+			"code": "SEK",
+			"country": "Švédsko"
+		},
+		{
+			"code": "HKD",
+			"country": "Hong Kong"
+		},
+		{
+			"code": "JPY",
+			"country": "Japonsko"
+		},
+		{
+			"code": "TRY",
+			"country": "Turecko"
+		},
+		{
+			"code": "RON",
+			"country": "Rumunsko"
+		},
+		{
+			"code": "USD",
+			"country": "Spojené státy americké"
+		},
+		{
+			"code": "CHF",
+			"country": "Švýcarsko"
+		},
+		{
+			"code": "CAD",
+			"country": "Kanada"
+		},
+		{
+			"code": "AUD",
+			"country": "Austrálie"
+		}
+	]
+}
